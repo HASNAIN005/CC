@@ -1,0 +1,16 @@
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\bin\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.exe
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\bin\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.deps.json
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\bin\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.runtimeconfig.json
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\bin\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.dll
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\bin\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.pdb
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4_Implement_lexical_analyzer_using_two_buffers.Form1.resources
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.csproj.GenerateResource.cache
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.AssemblyInfoInputs.cache
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.AssemblyInfo.cs
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.dll
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\refint\Lab4 Implement_lexical_analyzer_using_two_buffers.dll
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.pdb
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\Lab4 Implement_lexical_analyzer_using_two_buffers.genruntimeconfig.cache
+C:\Users\Junaid Computers\source\repos\Lab4 Implement_lexical_analyzer_using_two_buffers\obj\Debug\net6.0-windows\ref\Lab4 Implement_lexical_analyzer_using_two_buffers.dll
